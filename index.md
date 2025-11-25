@@ -1,29 +1,34 @@
 ---
 slug: github-test
-title: Git Submodules Sync Script for Recursive Remote Updates
+title: Automate Git Submodule Updates with a Shell Script
 repo: justin-napolitano/test
 githubUrl: https://github.com/justin-napolitano/test
 generatedAt: '2025-11-23T09:46:58.051591Z'
 source: github-auto
 summary: >-
-  Shell script automating initialization and recursive updates of Git submodules to their latest
-  remote commits for consistent repository state.
+  Learn how to automate the initialization and update of Git submodules
+  recursively with a simple shell script.
 tags:
   - git
   - submodules
   - shell-script
-seoPrimaryKeyword: git submodules
+  - shell scripting
+seoPrimaryKeyword: git submodule automation
 seoSecondaryKeywords:
-  - recursive update
-  - shell script
-  - git automation
+  - git submodule script
+  - automate git updates
+  - nested submodules
+  - git workflow
+  - shell script for git
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post describes a shell script automating Git submodule initialization and updates, fitting
-  well within automation of Git workflows and scripts, matching the 'automation' family description
-  and examples.
+  The post describes a shell script automating Git submodule initialization and
+  updates, fitting well within automation of Git workflows and scripts, matching
+  the 'automation' family description and examples.
+kind: project
+id: github-test
 ---
 
 # Sync Submodules Script: Technical Overview
