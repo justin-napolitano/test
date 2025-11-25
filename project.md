@@ -1,19 +1,26 @@
 ---
 slug: github-test
 id: github-test
-title: Sync Submodules Script
+title: Git Submodule Sync Shell Script for Repositories
 repo: justin-napolitano/test
 githubUrl: https://github.com/justin-napolitano/test
 generatedAt: '2025-11-24T21:36:39.588Z'
 source: github-auto
 summary: >-
-  A shell script to initialize and update all Git submodules in a repository to
-  their latest remote commits. It supports nested submodules and ensures
-  synchronization across the entire project.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A shell script to initialize and update Git submodules in a repository,
+  ensuring synchronization across nested submodules.
+tags:
+  - bash
+  - git
+  - submodules
+seoPrimaryKeyword: git submodule sync script
+seoSecondaryKeywords:
+  - initialize git submodules
+  - update git submodules
+  - bash script for git
+  - nested submodules management
+  - git automation tools
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
