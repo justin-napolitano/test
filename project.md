@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/test
 generatedAt: '2025-11-24T21:36:39.588Z'
 source: github-auto
 summary: >-
-  A shell script to initialize and update Git submodules in a repository,
-  ensuring synchronization across nested submodules.
+  A shell script to initialize and update Git submodules in a repository, ensuring synchronization
+  across nested submodules.
 tags:
   - bash
   - git
@@ -21,8 +21,8 @@ seoSecondaryKeywords:
   - nested submodules management
   - git automation tools
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: automation
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -83,4 +83,5 @@ A shell script to initialize and update all Git submodules in a repository to th
 - Add support for dry-run mode to preview changes.
 - Integrate with CI pipelines to automate submodule syncing.
 - Provide support for other version control systems or submodule alternatives.
+
 
